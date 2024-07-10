@@ -1,3 +1,3 @@
 # botones-2
 
-Botone para usar en HTML y CSS.
+Botones para usar en HTML y CSS.
